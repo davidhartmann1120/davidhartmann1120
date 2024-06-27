@@ -113,6 +113,10 @@
         <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
       <br>GraphQL
     </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
  </tr>
 </table>
 <br>
